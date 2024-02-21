@@ -1,0 +1,37 @@
+/* 
+- use some kind of basic CSS library to make this pretty
+- make it mobile friendly and app looking
+*/
+
+
+body {
+
+
+    background-color: aquamarine;
+}
+
+.container {
+    margin: 5%;
+    padding: 10%;
+    background-color: white;
+
+
+}
+
+
+h1 {
+
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+li {
+    margin: 10px 5px;
+}
+
+section {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    border: 1px solid black;
+    padding: 3px;
+    margin: 10px 0px;
+    list-style-type: none;
+}
